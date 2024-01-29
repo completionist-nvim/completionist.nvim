@@ -1,0 +1,1 @@
+local config = require("completionist.nvim.config")
